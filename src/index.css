@@ -1,0 +1,5 @@
+@import "leaflet/dist/leaflet.css";
+
+@tailwindcss base;
+@tailwindcss components;
+@tailwindcss utilities;
